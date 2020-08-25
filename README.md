@@ -1,6 +1,4 @@
-<center>
-![chaos](chaos.png)
-</center>
+![chaos](chaos2.png)
 
 
 ## chaos.network
