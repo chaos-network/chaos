@@ -1,15 +1,19 @@
 ![chaos](chaos2243.png)
 
 
-## chaos.network
+## The Network:
 
-You can use the [editor on GitHub](https://github.com/chaos-network/chaos/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+An [Element.io](https://element.io/) server deployed on [chat.chaos.network](https://chat.chaos.network) serves as the backbone to the network. This private chat server is maintained by the community and is open to the public.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+
+
+### 
+
+
+ - 
 
 ```markdown
 Syntax highlighted code block
