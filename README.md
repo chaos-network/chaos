@@ -1,44 +1,37 @@
 ![chaos](chaos2243.png)
 
 
-## The Network:
+## The network: 
 
-An [Element.io](https://element.io/) server deployed on [chat.chaos.network](https://chat.chaos.network) serves as the backbone to the network. This private chat server is maintained by the community and is open to the public.
+```Element.io (formerly riot.im)```
 
+An [Element.io](https://element.io/) server deployed on [chat.chaos.network](https://app.element.io/#/room/!lxbTZQbwHPodDlnoGn:chat.chaos.network?via=chat.chaos.network) serves as the backbone to the network. This private chat server is maintained by the community and is open to the public.
 
-### 
+- Download the Element.io client or use the Browser version to *connect to a private server:* **chat.chaos.network**
+- Create an account
+- [Join the chaos](https://app.element.io/#/room/!lxbTZQbwHPodDlnoGn:chat.chaos.network?via=chat.chaos.network)
 
+**the default is set to create an account on the Matrix server:**
+"*Sign in to your Matrix account on* **matrix.org**" change to: chat.chaos.network
 
+```Discord: #Open-Borders```
 
-### 
+A [Discord](https://discord.com) server maintained by the [Plaid Army](https://plaidarmy.com) is available for public use: (https://discord.com/invite/swQ8N6C)[https://discord.com/invite/swQ8N6C]
 
+*Discord is not considered private nor secure but is the most user-friendly. Servers are maintained by the Discord team and private messages can easily be read by their staff.*
 
- - 
+```Keybase```
 
-```markdown
-Syntax highlighted code block
+[Keybase](https://keybase.io/) is a cryptocurrency-friendly, end-to-end encrypted chat application with useful features. Keybase has a [browser plugin](https://keybase.io/docs/extension) to send tips via social media platforms such as: youtube, twitter and github. Plugin can be found here: [https://keybase.io/docs/extension](https://keybase.io/docs/extension).
 
-# Header 1
-## Header 2
-### Header 3
+Join our keybase team: [https://keybase.io/team/chaos_network](https://keybase.io/team/chaos_network)
 
-- Bulleted
-- List
+```Email```
 
-1. Numbered
-2. List
+We currently recommend [ProtonMail](https://protonmail.com/) as an email provider. Protonmail is end-to-end encrypted and does not use or sell your data.
 
-**Bold** and _Italic_ and `Code` text
+```For more information, join one of the servers and ask questions.```
 
-[Link](url) and ![Image](src)
-```
+- [network.chaos@protonmail.com](network.chaos@protonmail.com)
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/chaos-network/chaos/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+---
