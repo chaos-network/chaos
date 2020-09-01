@@ -9,12 +9,12 @@
 
 ### Element.io (formerly riot.im) 
 
-An [Element.io](https://element.io/) server deployed on [chat.chaos.network](https://app.element.io/#/room/!lxbTZQbwHPodDlnoGn:chat.chaos.network?via=chat.chaos.network) serves as the backbone to the network. This private chat server is maintained by the community and is open to the public.
+An [Element.io](https://element.io/) server deployed on [chat.chaos.network](https://matrix.to/#/!OBVoauFGQFEOTJyJdW:chat.chaos.network?via=chat.chaos.network) serves as the backbone to the network. This private chat server is maintained by the community and is open to the public.
 
 - [Download](https://element.io/get-started) the Element.io client or use the [Browser version](https://element.io/get-started) 
 - Switch to a private server:  **chat.chaos.network**
 - Create an account
-- [Join the chaos](https://app.element.io/#/room/!lxbTZQbwHPodDlnoGn:chat.chaos.network?via=chat.chaos.network)
+- [Join the chaos](https://matrix.to/#/!OBVoauFGQFEOTJyJdW:chat.chaos.network?via=chat.chaos.network)
 
 
 ### Discord: #Open-Borders
