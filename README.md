@@ -6,6 +6,17 @@
 ---
 
 
+### Discord: #Open-Borders
+
+A [Discord](https://discord.com) server owned by the [Plaid Army](https://plaidarmy.com) is available for public use: 
+
+- [https://discord.com/invite/swQ8N6C](https://discord.com/invite/swQ8N6C)
+
+* Active members can be promoted beyond the welcome center
+
+*Discord is not considered private nor secure but is the most user-friendly. Servers are maintained by the Discord team and private messages can easily be read by their staff.*
+
+
 
 ### Element.io (formerly riot.im) 
 
@@ -17,13 +28,7 @@ An [Element.io](https://element.io/) server deployed on [chat.chaos.network](htt
 - [Join the chaos](https://matrix.to/#/!OBVoauFGQFEOTJyJdW:chat.chaos.network?via=chat.chaos.network)
 
 
-### Discord: #Open-Borders
 
-A [Discord](https://discord.com) server maintained by the [Plaid Army](https://plaidarmy.com) is available for public use: 
-
-- [https://discord.com/invite/swQ8N6C](https://discord.com/invite/swQ8N6C)
-
-*Discord is not considered private nor secure but is the most user-friendly. Servers are maintained by the Discord team and private messages can easily be read by their staff.*
 
 ### Keybase
 
