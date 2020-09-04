@@ -10,7 +10,7 @@
 
 A [Discord](https://discord.com) server owned by the [Plaid Army](https://plaidarmy.com) is available for public use: 
 
-- [https://discord.com/invite/swQ8N6C](https://discord.com/invite/swQ8N6C)
+Join here: [https://discord.com/invite/swQ8N6C](https://discord.com/invite/swQ8N6C)
 
 * Active members can be promoted beyond the welcome center
 
