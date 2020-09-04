@@ -6,7 +6,7 @@
 ---
 
 
-### Discord: #Open-Borders
+## Discord: #Open-Borders
 
 A [Discord](https://discord.com) server owned by the [Plaid Army](https://plaidarmy.com) is available for public use: 
 
@@ -16,9 +16,9 @@ A [Discord](https://discord.com) server owned by the [Plaid Army](https://plaida
 
 *Discord is not considered private nor secure but is the most user-friendly. Servers are maintained by the Discord team and private messages can easily be read by their staff.*
 
+---
 
-
-### Element.io (formerly riot.im) 
+## Element.io (formerly riot.im) 
 
 An [Element.io](https://element.io/) server deployed on [chat.chaos.network](https://matrix.to/#/!OBVoauFGQFEOTJyJdW:chat.chaos.network?via=chat.chaos.network) serves as the backbone to the network. This private chat server is maintained by the community and is open to the public.
 
@@ -27,10 +27,9 @@ An [Element.io](https://element.io/) server deployed on [chat.chaos.network](htt
 - Create an account
 - [Join the chaos](https://matrix.to/#/!OBVoauFGQFEOTJyJdW:chat.chaos.network?via=chat.chaos.network)
 
+---
 
-
-
-### Keybase
+## Keybase
 
 [Keybase](https://keybase.io/) is a cryptocurrency-friendly, end-to-end encrypted chat application with useful features. Keybase has a [browser plugin](https://keybase.io/docs/extension) to send tips via social media platforms such as: youtube, twitter and github. Plugin can be found here: [https://keybase.io/docs/extension](https://keybase.io/docs/extension).
 
