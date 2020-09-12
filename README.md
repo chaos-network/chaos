@@ -8,7 +8,7 @@
 
 ## Discord: #Open-Borders
 
-A [Discord](https://discord.com) server owned by the [Plaid Army](https://plaidarmy.com) is available for public use: 
+A [Discord](https://discord.com) server owned by the [Plaid Army](https://plaidarmy.com) is available for public use.
 
 Join here: [https://discord.com/invite/swQ8N6C](https://discord.com/invite/swQ8N6C)
 
