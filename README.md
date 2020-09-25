@@ -14,6 +14,10 @@
 
 ---
 
+<br><br><br>
+
+### - Alternative Platforms:
+
 ***Element.io (formerly riot.im)***
 
 An [Element.io](https://element.io/) server deployed on [chat.chaos.network](https://matrix.to/#/!OBVoauFGQFEOTJyJdW:chat.chaos.network?via=chat.chaos.network) serves as the backbone to the network. This private chat server is open to the public.
