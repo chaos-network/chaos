@@ -38,7 +38,8 @@ An [Element.io](https://element.io/) server deployed on [chat.chaos.network](htt
 
 ---
 
+<br><br>
 
-- [network.chaos@protonmail.com](network.chaos@protonmail.com)
+[network.chaos@protonmail.com](network.chaos@protonmail.com)
 
 ---
