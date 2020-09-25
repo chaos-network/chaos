@@ -1,16 +1,15 @@
 ![chaos](chaos2243.png)
 
 
-# The Network: 
+***The Network:***
+
+### - Discord Groups:
 
 ---
 
-
-***Discord Groups:***
-
 ### - [PlaidArmy.com](https://plaidarmy.com)
 
-#Open-Borders: [https://discord.com/invite/swQ8N6C](https://discord.com/invite/swQ8N6C)
+ - #Open-Borders: [https://discord.com/invite/swQ8N6C](https://discord.com/invite/swQ8N6C)
  - the Chaos server is community-maintained. Join at your own risk.
 
 ---
