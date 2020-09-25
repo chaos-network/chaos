@@ -8,16 +8,16 @@
 
 ***Discord Groups:***
 
-### Plaid Army ~ #Open-Borders: [https://discord.com/invite/swQ8N6C](https://discord.com/invite/swQ8N6C)
+### - [PlaidArmy.com](https://plaidarmy.com)
 
-### [PlaidArmy.com](https://plaidarmy.com)
-
+#Open-Borders: [https://discord.com/invite/swQ8N6C](https://discord.com/invite/swQ8N6C)
+ - the Chaos server is community-maintained. Join at your own risk.
 
 ---
 
 ## Element.io (formerly riot.im) 
 
-An [Element.io](https://element.io/) server deployed on [chat.chaos.network](https://matrix.to/#/!OBVoauFGQFEOTJyJdW:chat.chaos.network?via=chat.chaos.network) serves as the backbone to the network. This private chat server is maintained by roadcrypto and is open to the public.
+An [Element.io](https://element.io/) server deployed on [chat.chaos.network](https://matrix.to/#/!OBVoauFGQFEOTJyJdW:chat.chaos.network?via=chat.chaos.network) serves as the backbone to the network. This private chat server open to the public.
 
 - [Download](https://element.io/get-started) the Element.io client or use the [Browser version](https://element.io/get-started) 
 - Switch to a private server:  **chat.chaos.network**
