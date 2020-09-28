@@ -3,7 +3,6 @@
 
 ***The Network:***
 
-### - Discord Groups:
 
 ---
 
@@ -14,7 +13,7 @@
 
 ---
 
-<br><br><br>
+<br>
 
 ### - Alternative Platforms:
 
