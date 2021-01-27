@@ -269,17 +269,22 @@ p {
 .get-started-btn {
   color: #fff;
   border-radius: 4px;
-  padding: 7px 25px 8px 25px;
+  padding: 5px 25px 5px 25px;
   white-space: nowrap;
   transition: 0.3s;
-  font-size: 14px;
+  font-size: 20px;
   display: inline-block;
-  border: 2px solid #ffc451;
+  border: 2px solid #aeaeae;
+background: #151515;
+  font-family: "Sumana", "Alegreya";
 }
+
+
 
 .get-started-btn:hover {
   background: #252525;
-  color: #dfdfdf;
+  color: #ffc451;
+border: 2px solid #aeaeae;
 }
 
 @media (max-width: 768px) {
@@ -456,8 +461,8 @@ p {
 #hero h2 {
   color: rgba(255, 255, 255, 0.9);
   margin: 10px 0 0 0;
-  font-size: 26px;
-  font-family: "Sumana", sans-serif;
+  font-size: 36px;
+  font-family: "Stardos Stencil", sans-serif;
 }
 
 #hero .icon-box {
