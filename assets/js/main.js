@@ -1,6 +1,6 @@
 /**
-* Template Name: Gp - v2.1.0
-* Template URL: https://bootstrapmade.com/gp-free-multipurpose-html-bootstrap-template/
+* Template Name: Day - v3.0.0
+* Template URL: https://bootstrapmade.com/day-multipurpose-html-template-for-free/
 * Author: BootstrapMade.com
 * License: https://bootstrapmade.com/license/
 */
@@ -17,12 +17,12 @@
   });
 
   // Smooth scroll for the navigation menu and links with .scrollto classes
-  var scrolltoOffset = $('#header').outerHeight() - 2;
+  var scrolltoOffset = $('#header').outerHeight() - 1;
   $(document).on('click', '.nav-menu a, .mobile-nav a, .scrollto', function(e) {
     if (location.pathname.replace(/^\//, '') == this.pathname.replace(/^\//, '') && location.hostname == this.hostname) {
-      e.preventDefault();
       var target = $(this.hash);
       if (target.length) {
+        e.preventDefault();
 
         var scrollto = target.offset().top - scrolltoOffset;
 
@@ -124,13 +124,16 @@
   $(window).scroll(function() {
     if ($(this).scrollTop() > 100) {
       $('#header').addClass('header-scrolled');
+      $('#topbar').addClass('topbar-scrolled');
     } else {
       $('#header').removeClass('header-scrolled');
+      $('#topbar').removeClass('topbar-scrolled');
     }
   });
 
   if ($(window).scrollTop() > 100) {
     $('#header').addClass('header-scrolled');
+    $('#topbar').addClass('topbar-scrolled');
   }
 
   // Back to top button
@@ -147,24 +150,6 @@
       scrollTop: 0
     }, 1500, 'easeInOutExpo');
     return false;
-  });
-
-  // Clients carousel (uses the Owl Carousel library)
-  $(".clients-carousel").owlCarousel({
-    autoplay: true,
-    dots: true,
-    loop: true,
-    responsive: {
-      0: {
-        items: 2
-      },
-      768: {
-        items: 4
-      },
-      900: {
-        items: 6
-      }
-    }
   });
 
   // Porfolio isotope and filter
@@ -185,24 +170,8 @@
 
     // Initiate venobox (lightbox feature used in portofilo)
     $(document).ready(function() {
-      $('.venobox').venobox({
-        'share': false
-      });
+      $('.venobox').venobox();
     });
-  });
-
-  // jQuery counterUp
-  $('[data-toggle="counter-up"]').counterUp({
-    delay: 10,
-    time: 1000
-  });
-
-  // Testimonials carousel (uses the Owl Carousel library)
-  $(".testimonials-carousel").owlCarousel({
-    autoplay: true,
-    dots: true,
-    loop: true,
-    items: 1
   });
 
   // Portfolio details carousel
@@ -217,6 +186,7 @@
   function aos_init() {
     AOS.init({
       duration: 1000,
+      easing: "ease-in-out",
       once: true
     });
   }
